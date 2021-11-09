@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "d120af1e8638c7da36c8481fd61a66c0c08dc4fc",
+          "version": "5.4.4"
+        }
+      },
+      {
+        "package": "Charts",
+        "repositoryURL": "https://github.com/danielgindi/Charts",
+        "state": {
+          "branch": null,
+          "revision": "66546404a6739173b8e436ab6bc1f2897cd08594",
+          "version": "3.6.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
