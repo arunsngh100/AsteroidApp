@@ -1,0 +1,17 @@
+The AsteroidApp has been made in SWIFT language and on MVVM architecture. App gives you list of asteroid and the bar graph representation within the range of date selected.
+There are three buttons Speed, Distance, Avg. Size, Reset functions are noted below:
+Speed - it gives you speed sorted data with Highest speed at the top and Lowest at the bottom
+Distance - it gives you distance sorted data with Closest distance at the top and Farthest at the bottom.
+Avg. Size - it gives you Average size of asteroid by (min value.+max value.)/2 for each asteroid.
+reset - it resets the whole page to initial state.
+
+
+If you face any error while running the app then follow these steps:
+1.Clean + Build
+2.Deleted Derived Data folder
+
+or if package is missing then follow these steps:
+1.File > Swift Packages > Reset Package Caches
+2.Clean + Build
+
+
