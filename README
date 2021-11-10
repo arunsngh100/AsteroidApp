@@ -1,4 +1,9 @@
 The AsteroidApp has been made in SWIFT language and on MVVM architecture. App gives you list of asteroid and the bar graph representation within the range of date selected.
+
+Steps:
+1.Select the Start and End date.
+2.Click on 'Submit' button. 
+
 There are three buttons Speed, Distance, Avg. Size, Reset functions are noted below:
 Speed - it gives you speed sorted data with Highest speed at the top and Lowest at the bottom
 Distance - it gives you distance sorted data with Closest distance at the top and Farthest at the bottom.
