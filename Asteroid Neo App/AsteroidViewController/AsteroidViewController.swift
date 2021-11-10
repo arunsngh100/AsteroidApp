@@ -183,8 +183,8 @@ extension AsteroidViewController: TableDelegate {
         case .normal:
             let date = controller.baseDataAsteroid.nearEarthObjects[section].date
             return date
-        case .speedSorted: return "Speed Sorted Data"
-        case .distanceSorted: return "Distance Sorted Data"
+        case .speedSorted: return "Speed Sorted Highest to lowest"
+        case .distanceSorted: return "Distance Sorted Closest to farthest"
         case .avgSizeSorted: return "Avg. Size Sorted Data"
         default: return ""
         }
